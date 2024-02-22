@@ -108,7 +108,7 @@ function App() {
     <div className="container">
       <div className="titleBar">
         <span></span>
-        <p>Demo Editor by Upender Viramalla</p>
+        <p>Demo Editor by Chandra Prakash Reddy</p>
         <button onClick={handleSave}>Save</button>
       </div>
 
